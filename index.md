@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to A HTML Template Guide
 
-You can use the [editor on GitHub](https://github.com/wuterbutl/templates/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can download our templates and use them to make your own stylish HTML files and upload them to the internet all by yourself!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Reminder, this does use a combination of regular CSS-3 and Bootstrap. **We dont use bootstrap for JS as of yet**
 
 ### Markdown
 
