@@ -4,26 +4,14 @@ You can download our templates and use them to make your own stylish HTML files 
 
 Reminder, this does use a combination of regular CSS-3 and Bootstrap. **We dont use bootstrap for JS as of yet**
 
-### Markdown
+### Current Templates
+All we have right now is the sign up/login template which you can view below. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### We use bootstrap
+Currently, we do use bootstrap for CSS but **not** for JS **yet**.
+Use the following code in your `<head>` tags. It **must** be above any other style sheets that are linked to your project.
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
